@@ -80,4 +80,6 @@ app.listen(PORT, () => {
 // 4bd4e470c1
 
 // Github Access Token
-// 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
+// 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
+// Classic
+// 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
